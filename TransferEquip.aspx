@@ -1,17 +1,12 @@
 ﻿<%@ Page Title="" Language="C#" MasterPageFile="~/master_page.Master" AutoEventWireup="true" CodeBehind="TransferEquip.aspx.cs" Inherits="IEA_InventoryMgmt.TransferEquip" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="ContentPlaceHolder1" runat="server">
-    
+    <!--GIT Enabled-->
     <link href="css/TransEquip/styles.css" rel="stylesheet"/>
     <link href="css/jquery-confirm.min.css" rel="stylesheet"/>
     <link href="css/bootstrap-datetimepicker.min.css" rel="stylesheet"/>
-    
-   
-
-     <!-- Font Awesome Css-->
+    <!-- Font Awesome Css-->
     <link href="css/font-awesome.min.css" rel="stylesheet"/>
     <script type="text/javascript" src="js/moment.js"></script>
-    
-    
     <script type="text/javascript" src="js/TransitEquip/cutomJquery.js"></script>
     <script type="text/javascript" src="js/TransitEquip/equip_app.js"></script>
     <script type="text/javascript" src="js/TransitEquip/ajaxService.js"></script>
